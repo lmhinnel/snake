@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1617018350 source:c:\users\tuana\onedrive\máy tính\code\baitaplon\c4t.cpp
+	<iostream>
+	<string>
+	<vector>
+	<conio.h>
+	<chrono>
+	<Windows.h>
+
